@@ -1,1 +1,1 @@
-![]('./src/Virtual DOM.png')
+![](https://raw.githubusercontent.com/Believel/MarkdownPhotos/master/vnode/vue-VirtualDOM%20.png)
